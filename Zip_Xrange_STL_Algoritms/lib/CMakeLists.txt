@@ -1,0 +1,1 @@
+add_library(argparser stl_algoritms.cpp "xrange.h"  "zip.h" )

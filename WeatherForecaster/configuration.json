@@ -1,0 +1,5 @@
+{
+  "cities": ["Saint Petersburg", "Moscow", "Voronezh", "Norilsk", "Kyiv", "Berlin", "London", "Paris"],
+  "amount_of_forecast_days": 16,
+  "update_time": 30000000000000000
+}
